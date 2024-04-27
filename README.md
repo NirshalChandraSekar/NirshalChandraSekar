@@ -11,10 +11,12 @@ About Me
 <p align="center"> --> I'm currently working at the <a href="https://rpm-lab.github.io/">Robotics: Perception and Manipulation Lab</a>, under Assistant Professor <a href="https://karthikdesingh.com/">Karthik Desingh</a>.</p>
 
 <p align="center"> --> I love to solve complex problems related to robotic perception in robot manipulation and navigation settings!</p>
-<p align="center"> <img src="https://github.com/NirshalNiru/NirshalNiru/blob/f9721db48f6e919960d5fdd1bd9ca7bf3f087cc5/lotus%20pose.png" width = "100px"> </p>
+
 
 <h2 align="center"> 
 Languages and Tools</h2>
+
+<p align="center"> <img src="https://github.com/NirshalNiru/NirshalNiru/blob/f9721db48f6e919960d5fdd1bd9ca7bf3f087cc5/lotus%20pose.png" width = "100px"> </p>
 
 <p align="center">
   <img src="https://github.com/NirshalNiru/NirshalNiru/blob/aba1f421f00cb0f2f9eea737fdaab4fcd6bb2c16/python.png" width = "50px"> 
