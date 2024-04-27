@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/NirshalNiru/NirshalNiru/blob/086c421536d1b0e77569560e921c72eeac3533d3/hi.png" width = "200px">
 <br>
-[Nirshal Chandra Sekar](https://www.linkedin.com/in/nirshal-chandra-sekar/)
+<a href="https://www.linkedin.com/in/nirshal-chandra-sekar/">Nirshal Chandra Sekar</a>
 <br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
