@@ -14,4 +14,6 @@ I am a graduate student in Robotics at the University of Minnesota. I work at th
 
 [Robotics: Perception and Manipulation Lab](https://rpm-lab.github.io/)
 
+I am a graduate student in Robotics at the University of Minnesota. I work at the [Robotics: Perception and Manipulation Lab](https://rpm-lab.github.io/), under Assistant Professor Karthik Desingh.
+
 
