@@ -9,5 +9,5 @@ About Me
 
 
 <h2> 
-Technical Stuff <img src="https://github.com/NirshalNiru/NirshalNiru/blob/60be16385b681c028f3e992cb051772a66c4ae7f/calm.png" width="50px">
+Technical Stuff <img src="https://github.com/NirshalNiru/NirshalNiru/blob/60be16385b681c028f3e992cb051772a66c4ae7f/calm.png" width="70px">
 </h2>
