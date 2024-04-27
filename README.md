@@ -7,11 +7,6 @@ Nirshal Chandra Sekar
 About Me
 </h2>
 
-<h4> 
-Technical Background:
-</h4>
-
-
 I am a graduate student in Robotics at the University of Minnesota. I work at the [Robotics: Perception and Manipulation Lab](https://rpm-lab.github.io/), under Assistant Professor. [Karthik Desingh](https://karthikdesingh.com/).
 
 
