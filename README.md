@@ -20,7 +20,7 @@ Languages and Tools</h2>
   <img src="https://github.com/NirshalNiru/NirshalNiru/blob/aba1f421f00cb0f2f9eea737fdaab4fcd6bb2c16/python.png" width = "50px"> 
   <img src="https://github.com/NirshalNiru/NirshalNiru/blob/aba1f421f00cb0f2f9eea737fdaab4fcd6bb2c16/cpp.png" width = "50px"> 
   <img src="https://github.com/NirshalNiru/NirshalNiru/blob/aba1f421f00cb0f2f9eea737fdaab4fcd6bb2c16/vs%20code.png" width = "50px"> 
-  <img src="https://github.com/NirshalNiru/NirshalNiru/blob/aba1f421f00cb0f2f9eea737fdaab4fcd6bb2c16/Open%20CV.png" width = "30px"> 
+  <img src="https://github.com/NirshalNiru/NirshalNiru/blob/aba1f421f00cb0f2f9eea737fdaab4fcd6bb2c16/Open%20CV.png" width = "50px"> 
 </p>
 
 
