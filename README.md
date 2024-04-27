@@ -12,4 +12,6 @@ Technical Background
 </h4>
 I am a graduate student in Robotics at the University of Minnesota. I work at the [Robotics: Perception and Manipulation (RPM) Lab](https://rpm-lab.github.io/), under Assistant Professor Karthik Desingh.
 
+[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
+
 
