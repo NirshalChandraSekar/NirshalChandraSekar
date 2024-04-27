@@ -7,3 +7,7 @@ Nirshal Chandra Sekar
 About Me
 </h2>
 
+
+<h4> 
+Technical Stuff
+</h4>
