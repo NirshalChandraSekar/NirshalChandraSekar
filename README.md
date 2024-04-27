@@ -3,7 +3,7 @@
 Nirshal Chandra Sekar
 </h1>
 
-<h2> 
+<h2 align="center"> 
 About Me
 </h2>
 
