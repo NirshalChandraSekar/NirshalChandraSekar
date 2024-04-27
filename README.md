@@ -13,6 +13,11 @@ About Me
 <p align="center"> --> I love to solve complex problems related to robotic perception in robot manipulation and navigation settings!</p>
 <p align="center"> <img src="https://github.com/NirshalNiru/NirshalNiru/blob/f9721db48f6e919960d5fdd1bd9ca7bf3f087cc5/lotus%20pose.png" width = "100px"> </p>
 
+<h2 align="center"> 
+Languages and Tools</h2>
+
+
+
 
 
 
