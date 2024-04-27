@@ -11,7 +11,7 @@ About Me
 <p align="center"> --> I'm currently working at the <a href="https://rpm-lab.github.io/">Robotics: Perception and Manipulation Lab</a>, under Assistant Professor <a href="https://karthikdesingh.com/">Karthik Desingh</a>.</p>
 
 <p align="center"> --> I love to solve complex problems related to robotic perception in robot manipulation and navigation settings!</p>
-________________________________________________________________________________________________________________________________
+--------------------------------------------------------------------------
 
 
 <h2 align="center"> 
