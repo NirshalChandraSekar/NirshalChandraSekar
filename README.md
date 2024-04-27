@@ -3,11 +3,11 @@
 Nirshal Chandra Sekar
 </h1>
 
-<h2 align="center"> 
+<h1 align="center"> 
 About Me
+</h1>
+
+
+<h2> 
+Technical Stuff <img src="https://github.com/NirshalNiru/NirshalNiru/blob/60be16385b681c028f3e992cb051772a66c4ae7f/calm.png" width="50px">
 </h2>
-
-
-<h4> 
-Technical Stuff
-</h4>
