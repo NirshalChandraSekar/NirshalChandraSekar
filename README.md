@@ -16,6 +16,9 @@ About Me
 
 <p align="center"> --> I love to solve complex problems related to robotic perception in robot manipulation and navigation settings!</p>
 
+<p align="center"> --> Reach out to me at <a href="https://www.linkedin.com/in/nirshal-chandra-sekar/">LinkedIn</a>
+
+
 
 <h2 align="center"> 
 Languages and Tools</h2>
